@@ -11,8 +11,8 @@
 soniSanidhya/soniSanidhya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![sonisanidhya's Stats](https://github-readme-stats.vercel.app/api?username=sonisanidhya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
+<!---![sonisanidhya's Stats](https://github-readme-stats.vercel.app/api?username=sonisanidhya&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+--->
 ![sonisanidhya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sonisanidhya&theme=tokyonight&hide_border=true)
 
-![sonisanidhya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonisanidhya&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+<!--- ![sonisanidhya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonisanidhya&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) --->
